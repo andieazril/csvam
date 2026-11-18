@@ -23,6 +23,13 @@ CSVAM memperbaikinya dengan tiga ide:
 2. **Total Opportunity Cost (TOC)**: penalti dihitung dari matriks TOC yang menggabungkan sudut pandang baris dan kolom, dan **dihitung ulang setiap iterasi**.
 3. **Skor sel**: alokasi dilakukan ke sel dengan skor terbesar, yaitu penalti baris + penalti kolom.
 
+## Flowchart Program
+
+Flowchart berikut menggambarkan alur program dari saat pengguna menjalankan `csvam.py`, memilih mode eksekusi, sampai program
+menghasilkan biaya transportasi.
+
+
+
 ## Langkah-Langkah Metode
 
 | Langkah | Keterangan | Rumus |
