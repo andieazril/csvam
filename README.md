@@ -28,7 +28,7 @@ CSVAM memperbaikinya dengan tiga ide:
 Flowchart berikut menggambarkan alur program dari saat pengguna menjalankan `csvam.py`, memilih mode eksekusi, sampai program
 menghasilkan biaya transportasi.
 
-![Flowchart CSVAM](image/CSVAMt.png)
+![Flowchart CSVAM](image/CSVAM.png)
 
 ## Langkah-Langkah Metode
 
